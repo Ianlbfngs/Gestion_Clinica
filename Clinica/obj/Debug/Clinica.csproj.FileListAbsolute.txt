@@ -1,0 +1,11 @@
+D:\Escritorio\TPINT_GRUPO_16_PR3\Clinica\bin\Debug\Clinica.dll
+D:\Escritorio\TPINT_GRUPO_16_PR3\Clinica\bin\Debug\Clinica.pdb
+D:\Escritorio\TPINT_GRUPO_16_PR3\Clinica\bin\Debug\Datos.dll
+D:\Escritorio\TPINT_GRUPO_16_PR3\Clinica\bin\Debug\Entidades.dll
+D:\Escritorio\TPINT_GRUPO_16_PR3\Clinica\bin\Debug\Datos.pdb
+D:\Escritorio\TPINT_GRUPO_16_PR3\Clinica\bin\Debug\Entidades.pdb
+D:\Escritorio\TPINT_GRUPO_16_PR3\Clinica\obj\Debug\Clinica.csproj.AssemblyReference.cache
+D:\Escritorio\TPINT_GRUPO_16_PR3\Clinica\obj\Debug\Clinica.csproj.CoreCompileInputs.cache
+D:\Escritorio\TPINT_GRUPO_16_PR3\Clinica\obj\Debug\Clinica.csproj.CopyComplete
+D:\Escritorio\TPINT_GRUPO_16_PR3\Clinica\obj\Debug\Clinica.dll
+D:\Escritorio\TPINT_GRUPO_16_PR3\Clinica\obj\Debug\Clinica.pdb
