@@ -1,6 +1,6 @@
 # TPI - Sistema de Gestión: Clínica
 
-Aplicación web desarrollada con ASP.NET con conexion a base de datos, orientada a la gestión de una clínica.
+Aplicación web desarrollada en C# con ASP.NET y conexion a base de datos, orientada a la gestión de una clínica.
 
 ## Tabla de Contenidos
 - [Tecnologías y conceptos utilizados](#tecnologías-y-conceptos-utilizados)
@@ -10,17 +10,17 @@ Aplicación web desarrollada con ASP.NET con conexion a base de datos, orientada
 
 
 ## Teconologías y conceptos utilizados
-- ASP.NET Web Forms
+- ASP.NET 
 - C#
 - SQL Server Express
 - ADO.NET
 - HTML / CSS
 - Git y GitHub
-- Programación en tres capas
+- Arquitectura en tres capas
 - Trabajo en equipo
 
 ## Funcionalidades
-- Login de usuarios
+- Login de medicos y administradores
 - Listados con multiples filtros
 - Eliminaciones multiples
 - Validaciones al dar de alta registros
