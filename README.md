@@ -38,7 +38,7 @@ Aplicación web desarrollada en C# con ASP.NET y conexion a base de datos, orien
 4. Abrir el archivo '.sln' con Visual Studio
 5. Ejecutar el proyecto (F5 o Ctrl + F5)
 6. Entrar desde un navegador a la dirección 'https://localhost:44340/Login.aspx'
-7. Loguearse como administrador 
+7. Loguearse como administrador. 
     Usuario: admin
     Contraseña: admin
 
