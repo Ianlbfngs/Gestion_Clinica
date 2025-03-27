@@ -36,9 +36,10 @@ Aplicación web desarrollada en C# con ASP.NET y conexion a base de datos, orien
 2. Ejecutar el script 'ClinicaTPI_PROG3.sql' para crear la base de datos 
 3. Clonar el repositorio o descargar el proyecto
 4. Abrir el archivo '.sln' con Visual Studio
-5. Ejecutar el proyecto (F5 o Ctrl + F5)
-6. Entrar desde un navegador a la dirección 'https://localhost:44340/Login.aspx'
-7. Loguearse como administrador. 
+5. Ir a las propiedades de la solucion y seleccionar como proyecto de inicio único: Vistas
+6. Ejecutar el proyecto (F5 o Ctrl + F5)
+7. Entrar desde un navegador a la dirección 'https://localhost:44340/Login.aspx'
+8. Loguearse como administrador. 
     Usuario: admin
     Contraseña: admin
 
