@@ -1,0 +1,9 @@
+D:\Escritorio\Nueva carpeta (3)\Datos\bin\Release\Datos.dll
+D:\Escritorio\Nueva carpeta (3)\Datos\bin\Release\Datos.pdb
+D:\Escritorio\Nueva carpeta (3)\Datos\bin\Release\Entidades.dll
+D:\Escritorio\Nueva carpeta (3)\Datos\bin\Release\Entidades.pdb
+D:\Escritorio\Nueva carpeta (3)\Datos\obj\Release\Datos.csproj.AssemblyReference.cache
+D:\Escritorio\Nueva carpeta (3)\Datos\obj\Release\Datos.csproj.CoreCompileInputs.cache
+D:\Escritorio\Nueva carpeta (3)\Datos\obj\Release\Datos.csproj.CopyComplete
+D:\Escritorio\Nueva carpeta (3)\Datos\obj\Release\Datos.dll
+D:\Escritorio\Nueva carpeta (3)\Datos\obj\Release\Datos.pdb

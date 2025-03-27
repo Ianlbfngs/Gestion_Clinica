@@ -4,3 +4,9 @@ D:\Escritorio\TPINT_GRUPO_16_PR3\Entidades\obj\Debug\Entidades.csproj.AssemblyRe
 D:\Escritorio\TPINT_GRUPO_16_PR3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 D:\Escritorio\TPINT_GRUPO_16_PR3\Entidades\obj\Debug\Entidades.dll
 D:\Escritorio\TPINT_GRUPO_16_PR3\Entidades\obj\Debug\Entidades.pdb
+D:\Escritorio\Nueva carpeta (3)\Entidades\bin\Debug\Entidades.dll
+D:\Escritorio\Nueva carpeta (3)\Entidades\bin\Debug\Entidades.pdb
+D:\Escritorio\Nueva carpeta (3)\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Escritorio\Nueva carpeta (3)\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Escritorio\Nueva carpeta (3)\Entidades\obj\Debug\Entidades.dll
+D:\Escritorio\Nueva carpeta (3)\Entidades\obj\Debug\Entidades.pdb

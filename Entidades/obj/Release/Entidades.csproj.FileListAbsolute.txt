@@ -1,0 +1,5 @@
+D:\Escritorio\Nueva carpeta (3)\Entidades\bin\Release\Entidades.dll
+D:\Escritorio\Nueva carpeta (3)\Entidades\bin\Release\Entidades.pdb
+D:\Escritorio\Nueva carpeta (3)\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
+D:\Escritorio\Nueva carpeta (3)\Entidades\obj\Release\Entidades.dll
+D:\Escritorio\Nueva carpeta (3)\Entidades\obj\Release\Entidades.pdb
